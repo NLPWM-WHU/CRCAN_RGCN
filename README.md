@@ -1,9 +1,9 @@
 # CRCAN/RGCN
 Code and dataset of our paper "Transfer Capsule Network for Aspect Level Sentiment Classification" accepted by Information Sciences 2020.
 
-#Basic Usage
+# Basic Usage
 
-##Example and Options
+## Example and Options
 
 ```
 see code/run.sh 
